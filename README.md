@@ -16,4 +16,5 @@ Python 3.x
 1. `python main.py`を実行する
 1. `output.txt`に、C言語の配列になったやつが生成される
 
-
+## 例
+`input.txt`の中身を見てほしい。これが`output.txt`に変換される。
